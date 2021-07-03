@@ -5,6 +5,8 @@ React Redux(Hooks)
 
 This is a simple app using redux hooks functions
 
+I have made this app for reading out dishes from the menu such that they can read it out to the customers, it has functions to easily and and remove dishes when necessary
+
 First install all the required dependencies from the package.json file
 
 Check whether the gradle version is 6.3 to setup the environment

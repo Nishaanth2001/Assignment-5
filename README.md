@@ -1,6 +1,18 @@
 # Assignment-5
 
 
+React Redux(Hooks)
+
+This is a simple app using redux hooks functions
+
+First install all the required dependencies from the package.json file
+
+Check whether the gradle version is 6.3 to setup the environment
+
+Create src folder in the Project folder form both stack screens
+
+Now Run the app and enter your entries
+
 https://user-images.githubusercontent.com/86832615/124355633-cf095100-dc2f-11eb-9e85-992a8a3ce9e6.mp4
 
 
